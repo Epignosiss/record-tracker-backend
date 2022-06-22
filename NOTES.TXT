@@ -1,0 +1,7 @@
+Postgresql as database
+
+let figure out the data modelling
+
+we will be writing tests
+
+Typescript as language

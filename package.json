@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest",
     "build": "tsc",
-    "start": "node src/server.ts",
-    "dev": "nodemon src/server.ts"
+    "start": "node src/index.ts",
+    "dev": "nodemon src/index.ts"
   },
   "keywords": [],
   "author": "TylerJusFly",

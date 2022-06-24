@@ -17,7 +17,7 @@ $ git clone
 Change directory into the project
 
 ```
-$ cd ServerPlanner
+$ cd record-tracker-backend
 ```
 
 ```bash
